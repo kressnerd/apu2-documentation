@@ -7,6 +7,8 @@ apuX platform users and developers to customize firmware to their needs.
 Binary releases
 ---------------
 
+All BIOS versions with release notes for apu boards: https://pcengines.github.io/
+
 Please take a look at changelog form more information:
 
 * [v4.6.x changelog](https://github.com/pcengines/release_manifests/blob/coreboot-4.6.x/CHANGELOG.md)
